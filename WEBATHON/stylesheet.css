@@ -1,0 +1,67 @@
+marquee {
+    color: white;
+}
+
+body {
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/01/Harry-Potter-Wallpapers-HD-main-characters.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: white;
+}
+ 
+ p {
+    float: left;
+    height: 200px;
+    word-spacing: 50px;
+    width: 465px;
+    color: black;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.btn {
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:24px;
+    padding-right:24px;
+    color:white;
+    display: inline-block;
+    opacity: 0.8;
+    
+  }
+  
+  
+  .signup {
+    background-color:black;
+    
+  }
+  
+
+  .facebook {
+    background-color:#3b5998;
+  }
+  
+  
+
+  .twitter {
+    background-color:#55acee;
+  }
+  
+ 
+  .btn-wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  
+
+  .btn-wrapper p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  
